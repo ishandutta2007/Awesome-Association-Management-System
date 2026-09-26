@@ -1,6 +1,6 @@
 # Awesome-Association-Management-System
 
-## Top Association Management System (AMS) Ecosystem
+### Top Association Management System (AMS) Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Membership Management, Member Engagement & Nonprofit Operations*  
