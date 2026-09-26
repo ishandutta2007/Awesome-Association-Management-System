@@ -60,51 +60,51 @@ Whether you are seeking enterprise cloud SaaS (like *Nimble AMS*, *Higher Logic*
 
 Below are active open-source Association Management Systems and membership management platforms for self-hosting, custom developer extensions, and transparent non-profit data control.
 
-*Sorted by GitHub Star Count (Descending)*
+*Sorted by GitHub Stars_Count (Descending)*
 
-- **[ChurchCRM](https://github.com/ChurchCRM/CRM)** [![GitHub Stars](https://img.shields.io/github/stars/ChurchCRM/CRM?style=social&color=white)](https://github.com/ChurchCRM/CRM/stargazers)  
+- **[ChurchCRM](https://github.com/ChurchCRM/CRM)** [![GitHub_Stars](https://img.shields.io/github/stars/ChurchCRM/CRM?style=social&color=white)](https://github.com/ChurchCRM/CRM/stargazers)  
   Free, open-source church and community management software for managing constituent profiles, families, groups, events, attendance, giving, and volunteers. Built with PHP & MySQL.
 
-- **[CiviCRM](https://github.com/civicrm/civicrm-core)** [![GitHub Stars](https://img.shields.io/github/stars/civicrm/civicrm-core?style=social&color=white)](https://github.com/civicrm/civicrm-core/stargazers)  
+- **[CiviCRM](https://github.com/civicrm/civicrm-core)** [![GitHub_Stars](https://img.shields.io/github/stars/civicrm/civicrm-core?style=social&color=white)](https://github.com/civicrm/civicrm-core/stargazers)  
   The leading open-source CRM for nonprofits and associations. Offers comprehensive constituent management, donations, events, memberships, and email campaigns. Integrates natively with WordPress, Drupal, Joomla, and Backdrop.
 
-- **[Tendenci](https://github.com/tendenci/tendenci)** [![GitHub Stars](https://img.shields.io/github/stars/tendenci/tendenci?style=social&color=white)](https://github.com/tendenci/tendenci/stargazers)  
+- **[Tendenci](https://github.com/tendenci/tendenci)** [![GitHub_Stars](https://img.shields.io/github/stars/tendenci/tendenci?style=social&color=white)](https://github.com/tendenci/tendenci/stargazers)  
   Open-source association management system and CMS built specifically for nonprofits and associations using Python/Django. Features membership management, event registration, donations, forums, and photo galleries.
 
-- **[Hitobito](https://github.com/hitobito/hitobito)** [![GitHub Stars](https://img.shields.io/github/stars/hitobito/hitobito?style=social&color=white)](https://github.com/hitobito/hitobito/stargazers)  
+- **[Hitobito](https://github.com/hitobito/hitobito)** [![GitHub_Stars](https://img.shields.io/github/stars/hitobito/hitobito?style=social&color=white)](https://github.com/hitobito/hitobito/stargazers)  
   Open-source web application for managing complex group hierarchies with members, events, courses, and mailings. Features a modular plugin architecture via Wagons. Used widely by European youth organizations and associations.
 
-- **[Admidio](https://github.com/Admidio/admidio)** [![GitHub Stars](https://img.shields.io/github/stars/Admidio/admidio?style=social&color=white)](https://github.com/Admidio/admidio/stargazers)  
+- **[Admidio](https://github.com/Admidio/admidio)** [![GitHub_Stars](https://img.shields.io/github/stars/Admidio/admidio?style=social&color=white)](https://github.com/Admidio/admidio/stargazers)  
   Free open-source user and organization management system for websites of groups, clubs, and societies. Includes flexible role-based access permissions, event calendars, photo albums, and document management.
 
-- **[MemberPrism2](https://github.com/easychen/MemberPrism2)** [![GitHub Stars](https://img.shields.io/github/stars/easychen/MemberPrism2?style=social&color=white)](https://github.com/easychen/MemberPrism2/stargazers)  
+- **[MemberPrism2](https://github.com/easychen/MemberPrism2)** [![GitHub_Stars](https://img.shields.io/github/stars/easychen/MemberPrism2?style=social&color=white)](https://github.com/easychen/MemberPrism2/stargazers)  
   Open-source alternative to Memberstack and MemberSpace with both front-end and back-end member-only content protection and subscription tracking.
 
-- **[Byro](https://github.com/byro/byro)** [![GitHub Stars](https://img.shields.io/github/stars/byro/byro?style=social&color=white)](https://github.com/byro/byro/stargazers)  
+- **[Byro](https://github.com/byro/byro)** [![GitHub_Stars](https://img.shields.io/github/stars/byro/byro?style=social&color=white)](https://github.com/byro/byro/stargazers)  
   Plugin-based, unopinionated membership administration software for small and medium clubs, NGOs, and associations. Built with Django, featuring Mailman integration and automated receipt generation.
 
-- **[Galette](https://github.com/galette/galette)** [![GitHub Stars](https://img.shields.io/github/stars/galette/galette?style=social&color=white)](https://github.com/galette/galette/stargazers)  
+- **[Galette](https://github.com/galette/galette)** [![GitHub_Stars](https://img.shields.io/github/stars/galette/galette?style=social&color=white)](https://github.com/galette/galette/stargazers)  
   Membership management web application for non-profit organizations and associations released under GPLv3. Actively maintained since 2013, with strong multi-language support.
 
-- **[Makerspace Membership System](https://github.com/southlondonmakerspace/membership-system)** [![GitHub Stars](https://img.shields.io/github/stars/southlondonmakerspace/membership-system?style=social&color=white)](https://github.com/southlondonmakerspace/membership-system/stargazers)  
+- **[Makerspace Membership System](https://github.com/southlondonmakerspace/membership-system)** [![GitHub_Stars](https://img.shields.io/github/stars/southlondonmakerspace/membership-system?style=social&color=white)](https://github.com/southlondonmakerspace/membership-system/stargazers)  
   Database and API for managing member records, subscription payments, access control permissions, event logging, and Discourse SSO integration.
 
-- **[OpenRepairPlatform](https://github.com/AtelierSoude/OpenRepairPlatform)** [![GitHub Stars](https://img.shields.io/github/stars/AtelierSoude/OpenRepairPlatform?style=social&color=white)](https://github.com/AtelierSoude/OpenRepairPlatform/stargazers)  
+- **[OpenRepairPlatform](https://github.com/AtelierSoude/OpenRepairPlatform)** [![GitHub_Stars](https://img.shields.io/github/stars/AtelierSoude/OpenRepairPlatform?style=social&color=white)](https://github.com/AtelierSoude/OpenRepairPlatform/stargazers)  
   Django-based web application for managing non-profit collaborative structures, member registrations, repair workshops, and event logistics.
 
-- **[Cantiga](https://github.com/zyxist/cantiga)** [![GitHub Stars](https://img.shields.io/github/stars/zyxist/cantiga?style=social&color=white)](https://github.com/zyxist/cantiga/stargazers)  
+- **[Cantiga](https://github.com/zyxist/cantiga)** [![GitHub_Stars](https://img.shields.io/github/stars/zyxist/cantiga?style=social&color=white)](https://github.com/zyxist/cantiga/stargazers)  
   PHP/Symfony membership management system designed to assist non-profit organizations in administering projects, members, and regional structures.
 
-- **[Narvik](https://github.com/Narvik-app/frontend)** [![GitHub Stars](https://img.shields.io/github/stars/Narvik-app/frontend?style=social&color=white)](https://github.com/Narvik-app/frontend/stargazers)  
+- **[Narvik](https://github.com/Narvik-app/frontend)** [![GitHub_Stars](https://img.shields.io/github/stars/Narvik-app/frontend?style=social&color=white)](https://github.com/Narvik-app/frontend/stargazers)  
   SaaS-style association management solution released under AGPLv3. Includes member administration, season passes, POS module, email templates, and role-based permissions.
 
-- **[CJ-7](https://github.com/NEJANX/CJ-7)** [![GitHub Stars](https://img.shields.io/github/stars/NEJANX/CJ-7?style=social&color=white)](https://github.com/NEJANX/CJ-7/stargazers)  
+- **[CJ-7](https://github.com/NEJANX/CJ-7)** [![GitHub_Stars](https://img.shields.io/github/stars/NEJANX/CJ-7?style=social&color=white)](https://github.com/NEJANX/CJ-7/stargazers)  
   Lightweight web-based member management system for school clubs and societies, written in PHP.
 
-- **[Open-Club-Manager](https://github.com/Code-Institute-Submissions/Open-Club-Manager)** [![GitHub Stars](https://img.shields.io/github/stars/Code-Institute-Submissions/Open-Club-Manager?style=social&color=white)](https://github.com/Code-Institute-Submissions/Open-Club-Manager/stargazers)  
+- **[Open-Club-Manager](https://github.com/Code-Institute-Submissions/Open-Club-Manager)** [![GitHub_Stars](https://img.shields.io/github/stars/Code-Institute-Submissions/Open-Club-Manager?style=social&color=white)](https://github.com/Code-Institute-Submissions/Open-Club-Manager/stargazers)  
   Django club management platform featuring user authentication, facility booking management, custom theming, and Stripe payment integration.
 
-- **[AMS (DTTA)](https://github.com/digital-technologies-teachers-aotearoa/ams)** [![GitHub Stars](https://img.shields.io/github/stars/digital-technologies-teachers-aotearoa/ams?style=social&color=white)](https://github.com/digital-technologies-teachers-aotearoa/ams/stargazers)  
+- **[AMS (DTTA)](https://github.com/digital-technologies-teachers-aotearoa/ams)** [![GitHub_Stars](https://img.shields.io/github/stars/digital-technologies-teachers-aotearoa/ams?style=social&color=white)](https://github.com/digital-technologies-teachers-aotearoa/ams/stargazers)  
   Modern Django + Wagtail association management platform featuring individual/organization memberships, Xero accounting sync, and Discourse forum SSO.
 
 ---
